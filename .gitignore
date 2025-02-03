@@ -3,10 +3,14 @@ venv/
 
 # Python byte-compiled files
 __pycache__/
-
+*.py[cod]      
 
 # IDE specific files
 .vscode/
+.idea/         
 
 # Environment variables
 .env
+
+# Local development settings
+*.log 
